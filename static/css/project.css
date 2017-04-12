@@ -1,0 +1,10 @@
+#main article {
+  background-color: rgba(255, 204, 0, 0.2);
+} 
+#bg:after {
+  background-image: none;
+  background-color: rgba(87, 49, 31, 0.8);
+}
+.osgislogo {
+  border-radius: 25px;
+}
