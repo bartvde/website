@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geospatial Information Systems'
+  description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geospatial Information Systems<br/>+31 6 42233115<br/><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a>'
   logo = "fa-globe"
   copyright = "OSGIS"
 [[params.social]]
@@ -40,4 +40,4 @@ title = ""
 languageName = "Nederlands"
 weight = 2
 title = ""
-description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geografische Informatie Systemen'
+description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geografische Informatie Systemen<br/>06-42233115<br/><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a>'
