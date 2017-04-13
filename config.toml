@@ -1,4 +1,3 @@
-baseurl = "http://osgis.nl"
 title = "OSGIS - Open Source Geografische Informatie Systemen"
 theme = "dimension"
 languageCode = "en-us"
@@ -7,7 +6,7 @@ enableRobotsTXT = true
 disableRSS = true
 
 [params]
-  description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geospatial Information Systems<br/>+31 6 42233115<br/><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a>'
+  description = '<div><img class="osgislogo" width="50%" src="images/logo.png"></div><div>Open Source Geospatial Information Systems</div><div>+31 6 42233115</div><div><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a></div>'
   logo = "fa-globe"
   copyright = "OSGIS"
 [[params.social]]
@@ -40,4 +39,4 @@ title = ""
 languageName = "Nederlands"
 weight = 2
 title = ""
-description = '<img class="osgislogo" width="50%" src="images/logo.png"><br/>Open Source Geografische Informatie Systemen<br/>06-42233115<br/><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a>'
+description = '<div><img class="osgislogo" width="50%" src="images/logo.png"></div><div>Open Source Geografische Informatie Systemen</div><div>06-42233115</div><div><a href="mailto:bartvde@osgis.nl">bartvde@osgis.nl</a></div>'
